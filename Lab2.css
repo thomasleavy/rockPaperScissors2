@@ -1,0 +1,25 @@
+body {
+  background-color: gray;
+  text-align: center;
+  padding-top:100px;
+}
+
+.images {
+  height: 100px;
+  width: 100px;
+}
+
+h1 {
+  font-family: roboto, arial;
+  font-size: 50px;
+}
+
+button {
+  height: 100px;
+  width: 200px;
+  font-size: 25px;
+}
+
+button:hover {
+  cursor: pointer;
+}
